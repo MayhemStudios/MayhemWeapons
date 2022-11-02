@@ -2,6 +2,13 @@
 ![Weapons Replaced](https://img.shields.io/badge/Weapons%20Replaced-13-critical?style=for-the-badge&logo=github)
 ![Issues](https://img.shields.io/github/issues/MayhemStudios/MayhemWeapons?style=for-the-badge&logo=github-critical)
 
+Table of Information
+| Name of Link | Location of Link|
+|--|--|
+| Mayhem's FAQ | [Mayhem's Development Hub](https://discord.gg/b9upz9NkwC) |
+| Subscribe to Release Notifications | [Mayhem's Development Hub](https://discord.gg/b9upz9NkwC)
+| More Resources | [Mayhem's Development Hub](https://discord.gg/b9upz9NkwC)
+
 
 This is a pack the replaces all of the most used weapons, you should find a table of all the weapons that would be replaced, and what it is replaced with.
 
